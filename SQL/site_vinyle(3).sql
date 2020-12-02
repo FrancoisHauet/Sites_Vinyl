@@ -45,10 +45,6 @@ INSERT INTO `account` (`id`, `username`, `password`, `permission`, `first_name`,
 (31, 'Nottahc', '$2y$10$O7593moZOGih88oxDBaYKeO9Ztdl02iE46uwKsR5XPPDYT1r/Lcg2', 'Admin', 'François', 'Hauet'),
 (32, 'Nottah', '$2y$10$VQ7cBfGaXcg6i5DflMQ0VewmxgGpVU85bK.3mGDCX.tU6H0aWG.Wy', 'User', 'François', 'Hauet'),
 (36, 'test', '$2y$10$lDSiOE381/F7cjdFnW5jxOJyICpghzwZsGaVafrwkNdXj4YOmDHhC', 'User', 'test', 'test'),
-(41, 'Xx_BOB_xX', '$2y$10$5A33PdEfPdKfgrKAxxSJ/ugPys3YprPQSmyc/FP3YMpryEDFcWrPy', 'User', 'Bob', 'Bob'),
-(46, 'Bidule', '$2y$10$SL24UchWzIyio.Ry5UapA.9xzSHoXJW6NExyYPRmD8sMG.3efRB..', 'User', 'Bidule', 'Bidule'),
-(47, 'rtete', '$2y$10$V8ofL8v3R3oY55XJOxeYe.oGcOcZzc4k1LUX15I0kA./muJtujI5C', 'User', 'Francois', 'Hauet'),
-(48, 'boby', '$2y$10$30JiDvC7Qz0v5Vb3Alm5xuXTvQzB5QHAVijaTQuBnyaMfCHzO3Ru6', 'User', 'Boby', 'Boby');
 
 -- --------------------------------------------------------
 
